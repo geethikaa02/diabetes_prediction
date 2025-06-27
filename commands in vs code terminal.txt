@@ -1,0 +1,14 @@
+pip install pickle-mixin
+streamlit run app1.py
+
+
+creation of requirements.txt:
+pip install pipreqs
+pipreqs --encoding=utf8
+
+create a new git-repo
+git init
+git add .
+git commin -m "first commit"
+git remote add origin https://github.com/geethikaa02/diabetes_prediction.git
+git push -u origin main
