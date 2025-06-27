@@ -76,6 +76,3 @@ Upon launching the app, you'll see an interactive form asking for 8 medical inpu
 
 ---
 
-## 📜 License
-
-This project is for educational/research purposes only. Feel free to modify and expand it for your thesis or real-world applications.
